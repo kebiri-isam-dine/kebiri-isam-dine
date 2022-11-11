@@ -1,7 +1,7 @@
 
 [![MasterHead](https://media-exp1.licdn.com/dms/image/D4E16AQEtWowRF6zUGg/profile-displaybackgroundimage-shrink_350_1400/0/1667322037761?e=1672876800&v=beta&t=9-0HZxzgjiIgOCGQ6NtosINBv09oFYpreIWtNymVYt8)](https://rishavchanda.io)
 
-<h1 align="center">WELCOME ! I'm KEBIRI isam dine</h1>
+<h1 align="center">Hi there ! I'm KEBIRI isam dine</h1>
 <h3 align="center">🪄 a Data Science student passionate about AI & databases 🪄</h3>
 <img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
