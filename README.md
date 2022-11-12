@@ -4,13 +4,8 @@
 <h1 align="center">Hi there ! I'm KEBIRI isam dine</h1>
 <h3 align="center">🪄 a Data Science student passionate about AI & databases 🪄</h3>
 
-
-
-
-
-- 🎓 I’m currently student at **Université Toulouse III - Paul Sabatier**
-
 <img  align="right" alt="Coding" width="330" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
+- 🎓 I’m currently student at **Université Toulouse III - Paul Sabatier**
 
 - 📌 Live in **France**
 
