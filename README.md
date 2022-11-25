@@ -2,6 +2,10 @@
 
 
 <h1 align="center">Hi there ! I'm KEBIRI isam dine</h1>
+
+![GitHub Org's stars](https://img.shields.io/github/stars/kebiri-isam-dine?style=social)
+![GitHub followers](https://img.shields.io/github/followers/kebiri-isam-dine?style=social)
+
 <h3 align="center">🪄 a Data Science student passionate about AI & databases 🪄</h3>
 
 <img  align="right" alt="Coding" width="330" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
