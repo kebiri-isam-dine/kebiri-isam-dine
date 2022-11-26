@@ -16,7 +16,7 @@
 
 - **“Data is the new oil.”** **🛢💻🛢**
 
-- 📫 How to reach me: **kebiri.isam.dine@gmail.com**
+- 📧 How to reach me: **kebiri.isam.dine@gmail.com**
 
 - 🌐 My Portfolio: **https://kebiri-isam-dine.github.io/**
 
