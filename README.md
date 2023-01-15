@@ -32,8 +32,8 @@
 
 <hr/>
 
-<p><img align="left" src="https://github-readme-statsss-five.vercel.app/api/top-langs?username=kebiri-isam-dine&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kebiri-isam-dine" /></p>
+<p><img align="left" src="https://github-readme-statsss-five.vercel.app/api/top-langs?username=kebiri-isam-dine&show_icons=true&locale=en&layout=compact&theme=merko" alt="kebiri-isam-dine" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-statsss-five.vercel.app/api?username=kebiri-isam-dine&show_icons=true&locale=en&theme=tokyonight" alt="kebiri-isam-dine" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-statsss-five.vercel.app/api?username=kebiri-isam-dine&show_icons=true&locale=en&theme=merko" alt="kebiri-isam-dine" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kebiri-isam-dine&" alt="kebiri-isam-dine" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kebiri-isam-dine&theme=merko" alt="kebiri-isam-dine" /></p>
