@@ -34,6 +34,6 @@
 
 <p><img align="left" src="https://github-readme-statsss-five.vercel.app/api/top-langs?username=kebiri-isam-dine&show_icons=true&locale=en&layout=compact" alt="kebiri-isam-dine" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kebiri-isam-dine&show_icons=true&locale=en" alt="kebiri-isam-dine" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-statsss-five.vercel.app/api?username=kebiri-isam-dine&show_icons=true&locale=en" alt="kebiri-isam-dine" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kebiri-isam-dine&" alt="kebiri-isam-dine" /></p>
