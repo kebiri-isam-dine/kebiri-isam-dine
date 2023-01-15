@@ -32,8 +32,10 @@
 
 <hr/>
 
+<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kebiri-isam-dine&theme=radical" alt="kebiri-isam-dine" /></p>
+
+<p><img src="https://github-readme-statsss-five.vercel.app/api?username=kebiri-isam-dine&show_icons=true&locale=en&theme=radical" alt="kebiri-isam-dine" /></p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kebiri-isam-dine&theme=radical" alt="kebiri-isam-dine" /></p>
+  
 <p><img src="https://github-readme-statsss-five.vercel.app/api/top-langs?username=kebiri-isam-dine&show_icons=true&locale=en&layout=compact&theme=radical" alt="kebiri-isam-dine" /></p>
-
-<p>&nbsp;<img src="https://github-readme-statsss-five.vercel.app/api?username=kebiri-isam-dine&show_icons=true&locale=en&theme=radical" alt="kebiri-isam-dine" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kebiri-isam-dine&theme=radical" alt="kebiri-isam-dine" /></p>
