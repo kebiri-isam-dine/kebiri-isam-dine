@@ -3,10 +3,10 @@
 <h1 align="center">Hi there ! I'm KEBIRI isam dine</h1>
 
 
-![GitHub stars](https://img.shields.io/github/stars/kebiri-isam-dine?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/kebiri-isam-dine?logo=trustpilot&logoColor=black&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/kebiri-isam-dine?style=social)
-![GitHub profile view](https://komarev.com/ghpvc/?username=kebiri-isam-dine&?style=flat&color=ff69b4)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKebiri-isam-dine&count_bg=%23DC371D&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![GitHub search hit counter](https://img.shields.io/github/search/kebiri-isam-dine/kebiri-isam-dine/views?label=hits&logo=codeigniter&logoColor=black&style=social)
+<!--- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKebiri-isam-dine&count_bg=%23A01212&title_bg=%23000000&icon=codeigniter.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 
 
