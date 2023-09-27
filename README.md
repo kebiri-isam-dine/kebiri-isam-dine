@@ -9,11 +9,11 @@
 
 
 
-<h3 align="center">🪄 a Data Science student passionate about AI & databases 🪄</h3>
+<h3 align="center">✨ a Data / BI consultant passionate about AI & databases ✨</h3>
 
 <img  align="right" alt="Coding" width="330" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 
-- 🎓 I’m currently student at **Université Toulouse III - Paul Sabatier**
+- 🎓 Graduated from **Université Toulouse III - Paul Sabatier**
 
 - 📌 Live in **France**
 
@@ -34,7 +34,7 @@
 <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> </a>  
 <a target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/microsoftoffice" width="40" height="40"/> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/powerbi" width="40" height="40"/> </a>
-<a  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/> </a>
+<a  target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/databricks" width="40" height="40"/> </a>
 <a  target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/html5" width="40" height="40"/> </a>
 <a  target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/css3" width="40" height="40"/> </a> <br>
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> </a>
