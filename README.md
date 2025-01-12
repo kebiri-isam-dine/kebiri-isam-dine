@@ -21,7 +21,7 @@
 
 - 📧 How to reach me: **issam.eddine.kebiri@gmail.com**
 
-- 🌐 My Portfolio: **<https://kebiri-isam-dine.github.io/>**
+- 🌐 My Portfolio: **<https://issam-kebiri.github.io/>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
