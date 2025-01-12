@@ -1,6 +1,6 @@
-![MasterHead](https://media.licdn.com/dms/image/D4E16AQH9r0FO51Zl_w/profile-displaybackgroundimage-shrink_350_1400/0/1679739002603?e=1704326400&v=beta&t=RO4GkQk5oq3JjfGRIOAv0HOlYHhZqjCte6VygEP1JTU)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQHLBUQaE4B8Aw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726950363082?e=1742428800&v=beta&t=MEWLz4buEmQygMirrJG7u_3b3S0BEf2OJd7z2LHDDWo)
 
-<h1 align="center">Hi there ! I'm KEBIRI isam dine</h1>
+<h1 align="center">Hi there ! I'm Issam KEBIRI</h1>
 
 
 ![GitHub User's stars](https://img.shields.io/github/stars/kebiri-isam-dine?logo=trustpilot&logoColor=black&style=social)
@@ -11,7 +11,7 @@
 
 <h3 align="center">✨ a Data / BI consultant passionate about AI & databases ✨</h3>
 
-<img  align="right" alt="Coding" width="330" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
+<img  align="right" alt="Coding" width="330" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 - 🎓 Graduated from **Université Toulouse III - Paul Sabatier**
 
@@ -19,21 +19,21 @@
 
 - **“Data is the new oil.”** **🛢💻🛢**
 
-- 📧 How to reach me: **kebiri.isam.dine@gmail.com**
+- 📧 How to reach me: **issam.eddine.kebiri@gmail.com**
 
 - 🌐 My Portfolio: **<https://kebiri-isam-dine.github.io/>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kebiri-isam-dine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kebiri-isam-dine" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/issam-kebiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kebiri-isam-dine" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> </a>  
-<a target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/microsoftoffice" width="40" height="40"/> </a>
-<a target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/powerbi" width="40" height="40"/> </a>
+<a target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/github" width="40" height="40"/> </a>
+<a target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/apachespark" width="40" height="40"/> </a>
 <a  target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/databricks" width="40" height="40"/> </a>
 <a  target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/html5" width="40" height="40"/> </a>
 <a  target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/css3" width="40" height="40"/> </a> <br>
